@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ChupaChups Sistema Solar.sln"
+    "dotnet.defaultSolution": "galaxy-chupachups-galaxy.sln"
 }
