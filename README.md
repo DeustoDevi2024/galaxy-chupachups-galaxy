@@ -6,7 +6,7 @@ y huvos Kinder. Para las rotaciones, pensamos para que se vean mas graficas pone
 Todos los planetas van a orbitar en torno al sol, con velocidades y radio distintas. Y algunos planetas hasta varios satelites, mientras que otros no tendran.
 Por ejemplo el ChupaChups que reprepresente a saturno tendra 2 satelites, mientras que mercurio no temdra ningun chichle en su orbita. La rotacion de los satelites
 no siempre tendra el mismo angulo que el del planeta, ya que algunos planetas van a tener los satelites perpendicular o diagonalemente.
-
+De fondo vamos a poner un sonido ambiental acorde con la dinamica de la galaxia.
 
 ELEMENTOS
 ChupaChupses, de distintos tamaños y sabores para representar a cada planeta.
