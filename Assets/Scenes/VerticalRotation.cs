@@ -15,6 +15,6 @@ public class VerticalRotation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.rotation *= Quaternion.Euler(speedRotation* Time.deltaTime * 7, 0f, 0f);
+        transform.rotation *= Quaternion.Euler(speedRotation* Time.deltaTime * 7, speedRotation* Time.deltaTime * 7, 0f);
     }
 }
