@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 698937575}
   m_Layer: 0
   m_Name: Chicle
-  m_TagString: Chicle
+  m_TagString: Chicle2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -363,7 +363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   check: 1
-  ColorTag: Chicle
+  ColorTag: Chicle2
   gameObjects: []
   color: {r: 0.113058, g: 0.89433956, b: 0.113058, a: 0}
 --- !u!1 &705507993
