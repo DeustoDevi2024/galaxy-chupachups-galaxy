@@ -243,6 +243,7 @@ GameObject:
   - component: {fileID: 698937572}
   - component: {fileID: 698937571}
   - component: {fileID: 698937574}
+  - component: {fileID: 698937575}
   m_Layer: 0
   m_Name: Chicle
   m_TagString: Untagged
@@ -349,6 +350,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedRotation: 20
+--- !u!114 &698937575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 698937569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 717a03905b9be3547bb12d3a40ce6a8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  check: 1
+  ColorTag: Chicle
+  gameObjects: []
+  color: {r: 0.113058, g: 0.89433956, b: 0.113058, a: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -699,7 +716,7 @@ MonoBehaviour:
   check: 1
   ColorTag: Chicle
   gameObjects: []
-  color: {r: 0.1653186, g: 0.81886786, b: 0.17381255, a: 0}
+  color: {r: 0.83396226, g: 0.13563803, b: 0.11171948, a: 0}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -883,7 +900,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 33c5f6c239eabcc4980c183b7bdc3896, type: 2}
+  - {fileID: 2100000, guid: a2fd8b8357342cb48b404b1b7cc1df8e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
